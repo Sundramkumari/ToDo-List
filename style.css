@@ -233,15 +233,15 @@ body{
 @media (max-width: 768px) {
   #home{
     margin-left: 50%;
-    margin-top: -8%;
+    margin-top: -3%;
   }
   #about{
     margin-left: 63%;
-    margin-top: -8%;
+    margin-top: -3%;
   }
   #contact{
     margin-left: 77%;
-    margin-top: -8%;
+    margin-top: -3%;
   }
   #heading{
     margin-left: 13%;
